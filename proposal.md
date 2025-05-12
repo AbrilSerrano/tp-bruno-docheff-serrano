@@ -2,19 +2,27 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51048 Serrano Abril
+* 50738 Bruno Carlos
+* 51350 Docheff Valentino
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [frontend app](https://github.com/AbrilSerrano/frontend-app)
+* [backend app](https://github.com/AbrilSerrano/backend-app)
+
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Sistema web de "Caniches Felices", un hotel para perros de lujo. El sistema permitira gestionar:
+la creacion de nuevos usuarios con sus respectivas mascotas.
+la reserva de habitaciones y/o servicios por parte de los mismos
+la asignacion de habitaciones y cuidadores automatizada
+facturaciones y pagos
+la emision de informes diarios con las tareas asignadas para cada cuidador
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](https://app.diagrams.net/#G1Mn6yZRuFx_fonWtvaVAKRYKO1ooYO5ee#%7B"pageId"%3A"D65qfCoZZDUVB4PZF1zs"%7D)
+
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
